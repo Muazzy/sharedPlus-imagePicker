@@ -1,4 +1,4 @@
-## It is a simple application which demonstrates the use of shared_plus package along with image_picker
+## Flutter Example (Sharing files)
 
 #### Packages:
 - [share_plus](https://pub.dev/packages/share_plus)
